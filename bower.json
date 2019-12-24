@@ -1,0 +1,21 @@
+{
+  "name": "electron-sample",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "naoki <duvingtdeux@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tonkatsu-ika/electron_sample",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.9",
+    "marked": "^0.8.0"
+  }
+}
