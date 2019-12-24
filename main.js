@@ -15,7 +15,7 @@ app.on('ready', () => {
     },
   });
 
-  mainWindow.loadURL('index.html');
+  mainWindow.loadFile('index.html');
 
   mainWindow.on('closed', () => {
     mainWindow = null;
